@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817804529652",
+    "project_id": "dap-alan",
+    "storage_bucket": "dap-alan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817804529652:android:2eeccf5e39c203971773a1",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvBRlg9pXYhp7zInwhGnRFPuqCUit-fD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
